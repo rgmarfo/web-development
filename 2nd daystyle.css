@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+}
+
+p {
+    background-color: gray;
+    color: white;
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+
+.odd {
+    color: yellow;
+}
+
+.even {
+    color: brown;
+}
